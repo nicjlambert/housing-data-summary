@@ -1,4 +1,4 @@
-# Excel Data Processing with R
+# 🏠 Excel Data Processing with R
 
 This R script downloads an Excel file from a URL, reads the file, and processes the data in it to generate a cleaned-up version that can be exported to a CSV file. Specifically, the script does the following:
 
